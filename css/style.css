@@ -1,0 +1,326 @@
+.content
+{
+    background-color: #f6f6f6;
+    padding-top: 72px;
+    padding-bottom: 200px;
+}
+
+.left-content img
+{
+    max-height: 105px;
+    margin-left: -30px;
+}
+
+.left-content h4
+{
+    font-weight: 400;
+    font-size: 28px;
+    max-width: 500px;
+}
+
+.left-content
+{
+    padding-top: 110px;
+
+}
+
+.container
+{
+    max-width: 980px;
+}
+
+.right-content
+{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin-top: 60px;
+}
+
+.right-content input
+{
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+
+.right-content input::placeholder
+{
+    font-size: 17px;
+}
+
+/* .modal-content {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+
+  .modal {
+    background-color: rgba(255, 255, 255, 0.8);
+    opacity: 0.8;
+  }
+   */
+.btn-login
+{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.forget-password a
+{
+    text-decoration: none;
+    font-size: 15px;
+    background-color: #fff;
+}
+
+.crear{
+    background-color: #fff;
+}
+
+.forget-password
+{
+    margin-top: 15px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.btn-register
+{
+    background-color: #42b72a;
+    border: 0;
+    padding: 10px 15px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.information a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+}
+
+.information
+{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.first-tab, .second-tab
+{
+    padding-left: 0;
+}
+
+.first-tab
+{
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+.first-tab li a, .second-tab li a
+{
+    text-decoration: none;
+    font-size: 13px;
+    color: #8a8d81;
+}
+
+.first-tab li, .second-tab li
+{
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+.button-icon
+{
+    border: 1px solid #ccc;
+    padding: 0px 7px;
+}
+
+.button-icon
+{
+    color: #000 !important;
+    background-color: #f5f6f7;
+}
+
+.footer
+{
+    margin-top: 15px;
+}
+
+.second-tab
+{
+    line-height: 20px;
+    margin-right: 15px;
+    font-size: 12.5px;
+
+}
+
+.rights
+{
+    font-size: 12px;
+    color: #737373 !important;
+    font-weight: 500;
+    padding-left: 0;
+}
+
+.formu{
+    background-color: #fff;
+}
+    
+.formulario{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 432px;
+    box-sizing: border-box;
+    border-color: #1c1e21;
+    border-top-width: 10px;
+  border-right-width: 1em;
+  border-bottom-width: thick;
+}
+
+#tache{
+    position: absolute;
+    right: 10px;
+    top: 12px;
+    z-index: 2;
+}
+
+.reg{
+    margin-bottom: 5px;
+    font-size: 36px;
+    color: #1c1e21;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.reg2{
+    color: #606770;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+.nombre{
+    background: #f5f6f7;;
+    border-radius: 5px;
+    border-color: #23292d6f;
+    height: 40px;
+    font-size: 15px;
+}
+
+.nac{
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+
+#dia,#mes,#año, #pronombre{
+    border-radius: 4px;
+    color: #1c1e21;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    height: 36px;
+    line-height: 20px;
+
+    background-position: right 5px center;
+    background-repeat: no-repeat;
+    background-size: 14px;
+    padding-right: 66px;
+    background-color: white;
+}
+
+
+a{
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nac2{
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 20px;
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+
+.btn-regi{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 15px;
+}
+
+#formu{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 500px;
+    box-sizing: border-box;
+    border-color: #1c1e21;
+    border-top-width: 10px;
+    border-right-width: 1em;
+    border-bottom-width: thick;
+    background-color: white;
+    max-height: 1000px;
+    margin-top: 10px;
+}
+
+#bordeSexo{
+    border: 1px solid grey;
+    border-radius: 3%;
+    padding: 5px;
+}
+
+.titulo, .reg, .reg2, .nac, .nac2{
+    background-color: white;
+}
+
+input.rsexo{
+    margin-left: 15px;
+}
+
+#ap{
+    margin-left: 15px;
+}
+
+#dia{
+    margin-left: 3px;
+}
+
+#mes{
+    margin-left: 10px;
+}
+
+#año{
+    margin-left: 10px;
+}
+#sex{
+    margin-left: 3px;
+    margin-right: 8px;
+}
